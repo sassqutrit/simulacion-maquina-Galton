@@ -8,11 +8,22 @@ Este proyecto simula una máquina de Galton, diseñada por Francis Galton en el 
 Puedes instalar las bibliotecas necesarias utilizando pip:
 pip install numpy matplotlib
 
-## Detalles del Programa
+# Detalles del Programa
+## Funcionamiento de la Simulación
+Nuestra simulación recrea digitalmente el comportamiento de una Máquina de Galton:
 
-### Generación de Números Aleatorios
+1. **Generación de canicas**: Simulamos 3000 canicas.
+2. **Recorrido de las canicas**: Cada canica pasa por 12 niveles de obstáculos. En cada nivel, la canica tiene igual probabilidad de desviarse a la izquierda o a la derecha.
+3. **Registro de posiciones**: La posición final de cada canica se registra.
+4. **Visualización**: 
+   - Se crea un histograma que muestra la distribución final de las canicas.
+   - Se genera una animación que muestra el proceso de las canicas cayendo y acumulándose en los contenedores.
 
-El programa utiliza la biblioteca `numpy` para generar números aleatorios que simulan la caída de las canicas. Cada canica tiene igual probabilidad de moverse a la derecha o a la izquierda en cada nivel de obstáculos.
+## Cómo Ejecutar el Código
+
+1. Asegúrate de tener Python instalado en tu sistema (preferiblemente Python 3.7+).
+2. Instala las bibliotecas necesarias.
+3. El programa utiliza la biblioteca `numpy` para generar números aleatorios que simulan la caída de las canicas. Cada canica tiene igual probabilidad de moverse a la derecha o a la izquierda en cada nivel de obstáculos.
 
 ### Simulación de la Caída de las Canicas
 
@@ -37,4 +48,4 @@ Este proyecto ha sido una experiencia enriquecedora, permitiéndome aplicar una 
 
 ## Agradecimientos
 
-Agradezco a los instructores y compañeros del bootcamp por su apoyo y colaboración a lo largo de este proyecto. La experiencia ha sido invaluable y ha fortalecido significativamente mis habilidades técnicas y analíticas.
+Agradezco a mi coach y compañeros del bootcamp por su apoyo y colaboración a lo largo de este proyecto. La experiencia ha sido invaluable y ha fortalecido significativamente mis habilidades técnicas y analíticas.
