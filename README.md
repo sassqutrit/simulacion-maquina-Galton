@@ -6,7 +6,6 @@ Este proyecto simula una máquina de Galton, diseñada por Francis Galton en el 
 - Python 3.x
 - Bibliotecas: `numpy`, `matplotlib`
 Puedes instalar las bibliotecas necesarias utilizando pip:
-```bash
 pip install numpy matplotlib
 
 ## Detalles del Programa
