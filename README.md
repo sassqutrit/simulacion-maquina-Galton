@@ -1,4 +1,4 @@
-Este proyecto proporciona una guía clara sobre cómo ejecutar el programa, detalla el proceso de creación del mismo, y ofrece reflexiones personales sobre el aprendizaje y las habilidades desarrolladas durante el bootcamp.
+Este proyecto proporciona una guía clara sobre el proceso de creación del programa, y ofrece reflexiones personales sobre el aprendizaje y las habilidades desarrolladas durante el bootcamp.
 # Simulación de la Máquina de Galton
 ## Descripción
 Este proyecto simula una máquina de Galton, diseñada por Francis Galton en el siglo XIX para demostrar cómo una distribución binomial con una muestra suficientemente grande se aproxima a una distribución normal. La simulación incluye la generación de números aleatorios, la animación de la caída de las canicas, y la graficación del histograma de resultados.
