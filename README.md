@@ -8,10 +8,8 @@ Este proyecto simula una máquina de Galton, diseñada por Francis Galton en el 
 Puedes instalar las bibliotecas necesarias utilizando pip:
 pip install numpy matplotlib
 
-## Detalles del Programa
-
-# Simulación de la Máquina de Galton
-# Funcionamiento de la Simulación
+# Detalles del Programa
+## Funcionamiento de la Simulación
 Nuestra simulación recrea digitalmente el comportamiento de una Máquina de Galton:
 
 1. **Generación de canicas**: Simulamos 3000 canicas.
